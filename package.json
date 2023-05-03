@@ -1,0 +1,14 @@
+{
+  "name": "popover-pars",
+  "version": "1.0.0",
+  "description": "broadcasts messages",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "poppers"
+  ],
+  "author": "Mohammed_yunus",
+  "license": "ISC"
+}
